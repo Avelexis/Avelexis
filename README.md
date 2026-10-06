@@ -45,15 +45,24 @@ Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo
 
 ## 🚀 Featured Projects
 
-### 🗂️ WorkFlow
+### 📬 Node.js REST API — Mail & Images
 
-A full-stack project management platform I'm building as a personal
-project.
+A backend REST API built with **Node.js and Express** as part of my Full Stack development training.
 
-**Focus:** authentication, projects, tasks, user profiles, file uploads,
-email verification and backend architecture.
+The project demonstrates practical backend development including **REST API architecture, MongoDB integration, authentication, email sending and image/file handling**.
 
-**Stack:** TypeScript · Next.js · Node.js · Express · Prisma · MySQL
+**Key features:**
+- 🔐 User authentication and authorization
+- 📧 Email sending with Nodemailer
+- 🖼️ Image upload and processing
+- 🗄️ MongoDB database integration
+- 🛣️ RESTful API routes
+- ⚙️ Express middleware and error handling
+- 🔒 Environment variables for sensitive configuration
+
+**Stack:** Node.js · Express · MongoDB · Mongoose · Nodemailer · REST API · JavaScript
+
+🔗 [Repository](https://github.com/Avelexis/nodejs-hw/tree/05-mail-and-img)
 
 ------------------------------------------------------------------------
 
@@ -81,6 +90,8 @@ pagination, modal windows and server-side API integration.
 
 **Stack:** Next.js · TypeScript · React · TanStack Query · Zustand ·
 REST API
+
+🔗 [Repository](https://github.com/Avelexis/09-auth)
 
 ------------------------------------------------------------------------
 
