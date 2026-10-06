@@ -67,7 +67,7 @@ user interaction.
 **Stack:** JavaScript · HTML · CSS · Vite · REST API
 
 🔗
-[Repository](https://github.com/alsydoruk642-hash/project-Home_Friends)
+[Repository](https://github.com/Avelexis/project-Home_Friends)
 
 ------------------------------------------------------------------------
 
@@ -118,17 +118,17 @@ JavaScript/TypeScript ecosystem.
 ## 📊 GitHub
 
 ![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=alsydoruk642-hash&show_icons=true&hide_border=true&count_private=true)
+Stats](https://github-readme-stats.vercel.app/api?username=Avelexis&show_icons=true&hide_border=true&count_private=true)
 
 ![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alsydoruk642-hash&layout=compact&hide_border=true)
+Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avelexis&layout=compact&hide_border=true)
 
 ------------------------------------------------------------------------
 
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alsydoruk642-hash)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Avelexis)
 
 ------------------------------------------------------------------------
 
