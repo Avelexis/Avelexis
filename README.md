@@ -94,7 +94,7 @@ A notes management application built during my Full Stack training, with note ma
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](ADD_YOUR_LINKEDIN_PROFILE_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olek-sydoruk/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Avelexis)
 
 ---
@@ -102,3 +102,4 @@ A notes management application built during my Full Stack training, with note ma
 I enjoy turning ideas into working products, collaborating with others, and continuously improving my frontend and backend skills.
 
 **Open to Junior Frontend / Full Stack Developer opportunities.**
+
